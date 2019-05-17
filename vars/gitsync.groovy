@@ -57,6 +57,6 @@ def call(){
     call([:])  
 }
 
-def Выполнить(Map buildEnv){
-    call(buildEnv)
-}
+//def Выполнить(Map buildEnv){
+//    call(buildEnv)
+//}
