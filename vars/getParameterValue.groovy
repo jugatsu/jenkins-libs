@@ -42,8 +42,8 @@ def getDefaultParams(){
         'LOCK_MESSAGE': 'Регламентные работы Контуром CI',
         'VRUNNER_CONF': 'tools/JSON/vRunner.json', // Путь к конфигурационному файлу vrunner
         'PROCEDURE_SINTAX_CHECK': 'false', // Выполнять синтаксическую проверку средствами 1с
-        'PROCEDURE_TDD_TEST': 'false', // Выполнять TDD тестирование
-        'PROCEDURE_BDD_TEST': 'false' // Выполять BDD тестирование
+        'PROCEDURE_TDD_TEST': 'true', // Выполнять TDD тестирование
+        'PROCEDURE_BDD_TEST': 'true' // Выполять BDD тестирование
 
     ]
 }
